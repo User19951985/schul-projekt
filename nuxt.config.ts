@@ -13,6 +13,7 @@ export default defineNuxtConfig({
   ],
 
   app: {
+    baseURL: '/schul-projekt/',
     head: {
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/logo.png' }
